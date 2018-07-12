@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KAŞ Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_diving">Diving</string>
+    <string name="category_paragliding">Paragliding</string>
+    <string name="category_antiphellos">Antiphellos Ancient City</string>
+    <string name="category_meis">Meis Island</string>
+    <string name="diving_name">Scuba Diving</string>
+    <string name="diving_description">Scuba diving is the best activity to do in Kaş because it is the most beautiful diving location in Turkey. There are a lot of wrecks to see.</string>
+    <string name="antiphellos_name">Antiphellos Ancient City</string>
+    <string name="antiphellos_description">Antiphellos Ancient Theatre is a great place to watch the sunset in the evenings.</string>
+    <string name="meis_name">Meis Island</string>
+    <string name="meis_description">Meis is one of the Greek islands that are very close to seashores of Turkey. If you have your passport, it is a great option to spend a day or two. It only takes 1 hour to reach the island from Kaş with a fairy.</string>
+    <string name="paragliding_name">Paragliding</string>
+    <string name="paragliding_description">Paragliding is a great option for those who thinks diving is not adventures enough.</string>
+
+</resources>
